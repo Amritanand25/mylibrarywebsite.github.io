@@ -49,9 +49,10 @@
     flex-wrap: wrap;
 }
 #clients img{
-    width: 25px;
-    height:25px;
-    padding: 10px;
+    width: 250px;
+    height: 250px;
+    padding: 4px;
+    border-radius: 10px;
 }
 #client-section{
     height: 395px;
